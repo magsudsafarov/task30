@@ -1,4 +1,4 @@
-function Mode (){
+function Mode(){
     let body =document.body;
 
     if(body.style.backgroundColor === "black"){
